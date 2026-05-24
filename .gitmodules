@@ -1,3 +1,6 @@
 [submodule "emula/vendor/SDL"]
 	path = emula/vendor/SDL
 	url = https://github.com/libsdl-org/SDL.git
+[submodule "emula/vendor/libemula"]
+	path = emula/vendor/libemula
+	url = https://github.com/Bylissss/libemula.git
